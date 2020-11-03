@@ -1,0 +1,17 @@
+Listener refused the connection with the following error:ORA-12505, TNS:listener does not currently
+
+https://hwan1001.tistory.com/31
+
+
+uninstall
+https://ksmk.tistory.com/24
+
+
+화면 왼쪽 아래 시작 클릭해서 알파벳 'O'로 갔을 때 oracle-OraDBHome1이 보이면 오라클 삭제가 안된것이다.
+아래 사이트 참고해서 오라클 삭제해야한다. 
+시작 메뉴의 oracle 삭제 방법:아래 위치에서 oracle지우면 된다. 
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+
+
+[ins-32025] 선택한 설치가 제공된 Oracle 홈에 이미 설치된 소프트웨어와 충돌합니다.
+https://forgiveall.tistory.com/304
